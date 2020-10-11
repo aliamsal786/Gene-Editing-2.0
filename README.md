@@ -23,5 +23,4 @@ Researcher: It does indeed. Think about prime editing’s processes as computer 
 
 To be continued...
 
-For more info, check out this [link!]
-[1] <https://www.frontiersin.org/articles/10.3389/fgene.2020.00528/full> "link!"
+For more info, check out this [link!](https://www.frontiersin.org/articles/10.3389/fgene.2020.00528/full)
