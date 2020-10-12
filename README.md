@@ -19,7 +19,7 @@ In October of 2019, Dr. David Liu at the Broad Institute in Cambridge, MA, prese
 3. Unlike CRISPR, prime editing can edit DNA in cells that can no longer divide. This allows for gene editing to attack mutations in smaller populations of cells, which was previously not possible.
 
 ## Prime Editing: How does it work ##
-![The Process] (https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Prime_editing_mechanism.png/492px-Prime_editing_mechanism.png)
+![The Process](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Prime_editing_mechanism.png/492px-Prime_editing_mechanism.png)
 ***CRISPR***: Well, how does Prime Editing Work? Doesn’t it use a CAS-9 enzyme too?
 Researcher: It does indeed. Think about prime editing’s processes as computer functions. First, you use Ctrl-F to find a piece of text you want to copy over. Then, you use Ctrl-C to copy over that piece of text; finally, by pressing Ctrl-V, you are able to copy over the old text with the new text. In this same way, prime editing involves the fusing of two enzymes CAS-9 nickase and reverse transcriptase, as well as a guide or pegRNA (a larger type of sgRNA than used in CRISPR, with a primer binding sequence). 
 
