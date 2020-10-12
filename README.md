@@ -1,6 +1,6 @@
 # Prime Editing: Our Future? #
 ## Crispr v. Gene Editing ##
-![Prime Editing is the Future!](https://images.app.goo.gl/NuJGdRfaLZAFt8fYA)
+![Prime Editing is the Future](https://images.app.goo.gl/NuJGdRfaLZAFt8fYA)
 
 ***CRISPR***: Well, hello there. My name is CRISPR. Recently, last year in October to be precise, I was apparently upgraded to a better version of myself. I was the future of gene therapy, the only great gene editing species on the planet. But now, I am not. Welcome to my downfall and the rise of prime editing. 
 
